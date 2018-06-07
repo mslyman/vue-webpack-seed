@@ -1,4 +1,4 @@
-    vue.js can work on IE9 without babel, use it only if you want use es2015 code
+    vue.js can work on IE9 without babel, use it only if you want to use es2015 code
     
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.3",
